@@ -5,7 +5,7 @@
   "description": {
     "en": "Simple barber shop project for study purposes, showcasing haircuts, beard trims, and grooming services.",
     "es": "Proyecto sencillo de barbería con fines de estudio, mostrando cortes de cabello, recortes de barba y servicios de cuidado personal.",
-    "pt-br": "Projeto simples de barbearia para estudo, apresentando cortes de cabelo, aparos de barba e serviços de cuidados pessoais"
+    "pt-br": "Projeto simples de barbearia para estudo, apresentando cortes de cabelo, aparos de barba e serviços de cuidados pessoais."
   },
   "technologies": {
     "frontend": ["astro", "typescript", "tailwindcss" ]
